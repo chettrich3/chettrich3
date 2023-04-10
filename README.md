@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chettrich3
 - 👀 I’m interested in coding, exercise, and reading!
-- 🌱 I’m currently learning data input & manipulation :)
-- 💞️ I’m looking to collaborate on several projects including tha hackathon!
+- 🌱 I’m currently learning data analysis and industrial engineering topics :)
 - 📫 How to reach me charlotte.hettrich@gmail.com or phone #: 678-350-3033
 
 <!---
