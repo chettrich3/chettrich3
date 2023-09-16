@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chettrich3
-- I’m currently learning data analysis and industrial engineering topics :)
+- I’m currently learning data analysis and industrial engineering topics.
 - You can reach me at my email charlotte.hettrich@gmail.com or phone #: 678-350-3033
 
 <!---
